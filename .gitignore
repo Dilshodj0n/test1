@@ -2,8 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-src/service/Pointer.java/
-src/service/Fn.java/
+src/service/C.java
 
 ### Eclipse ###
 .apt_generated
