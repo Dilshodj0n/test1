@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 /src/entity/Dakument.java/
-/src/entity/S.java/
+/src/entity/S.java
 
 ### Eclipse ###
 .apt_generated
